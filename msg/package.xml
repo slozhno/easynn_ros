@@ -1,0 +1,16 @@
+<xml version="2">
+<package>
+  <name>easynn_ros_msgs</name>
+  <version>1.0.0</version>
+  <description>This package provides intuitive interface for setting up and training neural networks.</description>
+  <maintainer email="info@slozhno.com">Alexander Smehnov, Arseniy Popov, Valerii Chernov</maintainer>
+  <license>ASL</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <run_depend>message_runtime</run_depend>
+  <run_depend>std_msgs</run_depend>
+</package>

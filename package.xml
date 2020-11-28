@@ -1,0 +1,17 @@
+<package format="2">
+  <name>easynn_ros</name>
+  <version>2.0.0</version>
+  <description>This package provides intuitive interface for setting up and training neural networks.</description>
+  <maintainer email="info@slozhno.com">Alexander Smehnov, Arseniy Popov, Valerii Chernov</maintainer>
+  <license>ASL</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>std_msgs</depend>
+
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <export>
+  </export>
+
+</package>
